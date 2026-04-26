@@ -7,3 +7,12 @@ C:\Users\DARKO\Desktop\AUSRETRY\official\dCom\Modbus\obj\Debug\Modbus.csproj.Cor
 C:\Users\DARKO\Desktop\AUSRETRY\official\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
 C:\Users\DARKO\Desktop\AUSRETRY\official\dCom\Modbus\obj\Debug\Modbus.dll
 C:\Users\DARKO\Desktop\AUSRETRY\official\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\DARKO\Desktop\AUSRETRY\official\AUS_SSP\dCom\Modbus\obj\Debug\Modbus.pdb

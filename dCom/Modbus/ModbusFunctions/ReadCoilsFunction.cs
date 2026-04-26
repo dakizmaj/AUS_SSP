@@ -59,7 +59,7 @@ namespace Modbus.ModbusFunctions
 
             byte byteCount = response[8];
 
-            Console.WriteLine(response.Length);
+            
             int coilIndex = 0;
 
             for (int i = 0; i < byteCount; i++)
